@@ -1,0 +1,40 @@
+{
+	"code": 200,
+	"result": [
+		{
+			"EAN_code": null,
+			"EMEA_code": null,
+			"EU_code": null,
+			"NMAN_code": "us_936e481e_f46c_4e03_b8e3_25961cda1909",
+			"active_ingredient": "acetaminophen (UNII: 362O9ITL9D)  (acetaminophen - UNII:362O9ITL9D), codeine phosphate (UNII: GSL05Y1MN6)  (codeine anhydrous - UNII:UX6OWY2V7J)",
+			"administration_route": "ORAL",
+			"atc_code": null,
+			"barcode": "50458-513-60, 50458-513-80, 50458-515-60, 50458-515-70",
+			"category": "Allopathic drug",
+			"class": null,
+			"commercial_name": "TYLENOL®  \r\n with Codeine \r\n CIII \r\n (acetaminophen and codeine phosphate) tablets",
+			"composition": "acetaminophen 300 mg",
+			"countryCode": "us",
+			"domain": "Humans",
+			"dosage": null,
+			"inn": "acetaminophen",
+			"languageCode": "en",
+			"leaflet_short": "TYLENOL®  with Codeine (acetaminophen and codeine phosphate) No. 3 Tablets contain acetaminophen 300 mg and codeine phosphate 30 mg. The tablets are white, round, flat-faced, beveled-edged, and imprinted \"McNEIL\" on one side and \"TYLENOL CODEINE\" and \"3\" on the other side. TYLENOL®  with Codeine (acetaminophen and codeine phosphate) No. 4 Tablets contain acetaminophen 300 mg and codeine phosphate 60 mg. The tablets are white, round, flat-faced, beveled-edged, and imprinted \"McNEIL\" on one side and \"TYLENOL CODEINE\" and \"4\" on the other side. TYLENOL®  with Codeine Tablets are supplied as follows: TYLENOL®  with Codeine No. 3 bottle of 100 tablets – NDC 50458-513-60 TYLENOL®  with Codeine No. 3 bottle of 1000 tablets – NDC 50458-513-80 TYLENOL®  with Codeine No. 4 bottle of 100 tablets – NDC 50458-515-60 TYLENOL®  with Codeine No. 4 bottle of 500 tablets – NDC 50458-515-70 Store TYLENOL®  with Codeine tablets at 20° to 25°C (68° to 77°F). (See USP Controlled Room Temperature.) Dispense in tight, light-resistant container as defined in the USP. Store TYLENOL®  with Codeine tablets securely and dispose of properly (see PRECAUTIONS/ Information for Patients ). Keep out of the reach of children.",
+			"ma_date": null,
+			"ma_number": "50458-513-60, 50458-513-80, 50458-515-60, 50458-515-70",
+			"ma_status": "Abbreviated New Drug Application",
+			"mah": "Janssen Pharmaceuticals, Inc.",
+			"name": "TYLENOL®  \r\n with Codeine \r\n CIII \r\n (acetaminophen and codeine phosphate) tablets",
+			"pharmaceutical_form": null,
+			"prescription_type": "PRESCRIPTION DRUG",
+			"producer": null,
+			"product_code": "936e481e-f46c-4e03-b8e3-25961cda1909",
+			"product_id": 3820900,
+			"source": "NLM (National Library of Medicine)",
+			"therapeutic_area": null,
+			"therapeutic_group": null,
+			"therapeutic_indication": "TYLENOL®  with Codeine (acetaminophen and codeine phosphate) tablets are indicated for the management of mild to moderate pain, where treatment with an opioid is appropriate and for which alternative treatments are inadequate. Because of the risks of addiction, abuse, and misuse, with opioids, even at recommended doses (see WARNINGS ), reserve TYLENOL®  with Codeine tablets for use in patients for whom alternative treatment options [e.g., non-opioid analgesics] - Have not provided adequate analgesia, or are not expected to provide adequate analgesia, - Have not been tolerated, or are not expected to be tolerated. TYLENOL®  with Codeine is contraindicated for: - All children younger than 12 years of age (see WARNINGS ). - Post-operative management in children younger than 18 years of age following tonsillectomy and/or adenoidectomy (see WARNINGS ). TYLENOL®  with Codeine is contraindicated in patients with: - Significant respiratory depression (see WARNINGS ). - Acute or severe bronchial asthma in an unmonitor"
+		}
+	],
+	"total_results": 1
+}

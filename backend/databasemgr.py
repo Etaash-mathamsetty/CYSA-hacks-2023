@@ -15,3 +15,8 @@ def write(key, value):
 
 def read_all():
     return database.data
+
+def read(key):
+    return database.data[key]
+
+# if __name__ == "__main__":

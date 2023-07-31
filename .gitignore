@@ -161,3 +161,9 @@ cython_debug/
 
 # db
 backend/db.json
+./images.zip
+images.zip
+trainingai/
+backend/training_images/
+backend/validation_images/
+
